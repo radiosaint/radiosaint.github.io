@@ -4,9 +4,9 @@ On your https://poll.ma.pe/overlay/<id>/ URL add ?customCss=https://example.com/
 /** "custom" refers to the theme assigned to the poll element*/
 .custom {
 	background: #FF4655;
-	width: 400px;
+	width: 1000px;
 	transition: opacity 1s;
-	padding: 10px;
+	padding: 30px;
 	font-family: Abel;
 	opacity: 0;
 }
